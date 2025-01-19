@@ -1,0 +1,14 @@
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\bin\Debug\net9.0\s1.exe
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\bin\Debug\net9.0\s1.deps.json
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\bin\Debug\net9.0\s1.runtimeconfig.json
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\bin\Debug\net9.0\s1.dll
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\bin\Debug\net9.0\s1.pdb
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.AssemblyInfoInputs.cache
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.AssemblyInfo.cs
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.csproj.CoreCompileInputs.cache
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.dll
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\refint\s1.dll
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.pdb
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\s1.genruntimeconfig.cache
+E:\Emre\HSE\2 COURSE\SoftwareConst\First\s1\obj\Debug\net9.0\ref\s1.dll
