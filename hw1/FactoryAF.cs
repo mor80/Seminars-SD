@@ -1,4 +1,4 @@
-﻿namespace s1;
+﻿namespace hw1;
 
 public class FactoryAF
 {

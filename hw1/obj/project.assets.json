@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\s1\\s1.csproj",
-      "projectName": "s1",
-      "projectPath": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\s1\\s1.csproj",
+      "projectUniqueName": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\hw1\\hw1.csproj",
+      "projectName": "hw1",
+      "projectPath": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\hw1\\hw1.csproj",
       "packagesPath": "C:\\Users\\egmor\\.nuget\\packages\\",
-      "outputPath": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\s1\\obj\\",
+      "outputPath": "E:\\Emre\\HSE\\2 COURSE\\SoftwareConst\\seminars\\hw1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egmor\\AppData\\Roaming\\NuGet\\NuGet.Config",

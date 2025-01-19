@@ -1,4 +1,4 @@
-﻿using s1;
+﻿using hw1;
 
 internal class Program
 {
