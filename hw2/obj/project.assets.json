@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/hw1.csproj",
-      "projectName": "hw1",
-      "projectPath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/hw1.csproj",
+      "projectUniqueName": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw2/hw2.csproj",
+      "projectName": "hw2",
+      "projectPath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw2/hw2.csproj",
       "packagesPath": "/Users/emreguuv/.nuget/packages/",
-      "outputPath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/",
+      "outputPath": "/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emreguuv/.nuget/NuGet/NuGet.Config"

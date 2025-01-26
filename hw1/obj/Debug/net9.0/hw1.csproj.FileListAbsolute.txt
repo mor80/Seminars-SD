@@ -1,0 +1,15 @@
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/bin/Debug/net9.0/hw1
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/bin/Debug/net9.0/hw1.deps.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/bin/Debug/net9.0/hw1.runtimeconfig.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/bin/Debug/net9.0/hw1.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/bin/Debug/net9.0/hw1.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.AssemblyInfoInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.AssemblyInfo.cs
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.csproj.CoreCompileInputs.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.sourcelink.json
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/refint/hw1.dll
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.pdb
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/hw1.genruntimeconfig.cache
+/Users/emreguuv/Documents/HSE/2 COURSE/Software Constr/Seminars-SD/hw1/obj/Debug/net9.0/ref/hw1.dll
